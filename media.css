@@ -1,0 +1,25 @@
+
+@media (max-width: 1090px) {
+    .cardswrapper {
+        justify-content: space-around;
+    }
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 900px) {
+    nav {
+        display: none;
+    }
+    .fa-bars {
+        display: inline-block;
+    }
+    
+}
+@media only screen and (max-width: 480px) {
+    body {
+      background-color: lightgray;
+    }
+  }
+
